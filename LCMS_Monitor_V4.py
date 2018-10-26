@@ -249,6 +249,6 @@ while 1:
         time.sleep(UPDATE_TIME_SECONDS)
     except OSError:
         # Sometimes repeated calls to an instrument result in a "Too many remote connections error"
-        # his allows the script to keep running instead of erroring out
+        # This allows the script to keep running instead of erroring out
         # The error resolves itself by the second time around
         pass
