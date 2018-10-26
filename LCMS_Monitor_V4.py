@@ -15,7 +15,6 @@ instruments = {
     'Gold': [tgo, r'\\Network_Location_4\MassLynx\Status.ini'],
     'Neon': [tne, r'S:\Network_Location_5\Status.ini'],
     'Nickel': [tni, r'S:\Network_Location_6\Status.ini']
-
 }
 MONITOR_HTML_LOCATION = r"S:\Network_Folder\LCMS_monitor.html"
 Monitor_OA = r"S:\Network_Folder\LCMS_OA.html"
